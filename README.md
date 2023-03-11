@@ -24,7 +24,7 @@
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Computer Vision, Pattern Recognition, Machine Learning and Deep Learning areas.
 
 - :zap: In my free time, I take Deep Learning courses and read tech articles.
 
